@@ -1,6 +1,6 @@
 ---
 title: 'example post'
-status: 'draft'
+status: 'published'
 author:
   name: 'miyamonz'
   picture: 'https://avatars.githubusercontent.com/u/6331508?v=4'
